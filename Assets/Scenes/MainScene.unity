@@ -1611,6 +1611,7 @@ MonoBehaviour:
   timeTxt: {fileID: 1051342555}
   nowScore: {fileID: 1622645715}
   bestScore: {fileID: 47751430}
+  anim: {fileID: 1556037928}
 --- !u!4 &1829817493
 Transform:
   m_ObjectHideFlags: 0
